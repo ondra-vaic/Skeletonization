@@ -15,3 +15,5 @@ V této seminární práci byl vytvořen program, který umožňuje skeletonizac
 * Gaussovské rozostření
 
 Více informací najdete v dokumentaci [zde](ZVI/doc/dokumentace.pdf).
+
+![alt text](ZVI/doc/zvi.png)
