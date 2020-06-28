@@ -1,0 +1,1 @@
+Program lze spustit souborem main.exe
